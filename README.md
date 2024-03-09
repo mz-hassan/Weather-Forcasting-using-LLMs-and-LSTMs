@@ -11,13 +11,13 @@ This project aims to analyze the zero-shot time-series forecasting performance o
 
 ## Video Description
 
-<p align="center">
-  <video width="700" controls>
-    <source src="img/video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+Click the Image for full video
 
+<p align="center">
+  <a href="https://veed.io/view/ed67ed91-34a8-4e87-8a77-6a158c65fe3e">
+    <img src="img/screen.png" alt="Watch the video">
+  </a>
+</p>
 
 ## Description
 
