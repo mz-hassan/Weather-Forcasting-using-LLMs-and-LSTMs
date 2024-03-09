@@ -30,7 +30,7 @@ Click the Image for full video
 ## Results
 
  - Lag-LLama seemed to perform the best on zero-shot performace. 
- - Mistral performed the best among the LLMs from Ollama.
+ - Llama2 performed the best among the LLMs from Ollama.
  - The LSTM performed well but was very easy to overfit especially on only 2 years of data
 
 <p align="center">
